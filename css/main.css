@@ -11,6 +11,7 @@ body{
 }
 a{
   text-decoration:none;
+  color: white;
 }
 
 header{
@@ -20,13 +21,11 @@ header{
   text-align: center;
   max-height: 80px;
   list-style-type:none;
+  margin:0;
 }
 
 .nav-bar li{
-  color: white;
   font-size: 16px;
   padding: 5px;
 }
 
-
-  
