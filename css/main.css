@@ -12,12 +12,21 @@ body{
 a{
   text-decoration:none;
 }
+
+header{
+  display:grid;
+}
 .nav-bar{
-  font-size: 16px;
-  color:white;
   text-align: center;
   max-height: 80px;
   list-style-type:none;
 }
-  
+
+.nav-bar li{
+  color: white;
+  font-size: 16px;
+  padding: 5px;
+}
+
+
   
