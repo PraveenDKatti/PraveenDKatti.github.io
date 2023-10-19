@@ -8,6 +8,7 @@ body{
   color:black;
   margin:0;
   padding:0;
+  width: 80%;
 }
 a{
   text-decoration:none;
@@ -19,10 +20,10 @@ header{
   display:grid;
 }
 .nav-bar{
-  text-align: center;
-  max-height: 80px;
+  float: right;
+  min-height: 50px;
   list-style-type:none;
-  margin:0;
+  margin:auto;
 }
 
 .nav-bar li{
